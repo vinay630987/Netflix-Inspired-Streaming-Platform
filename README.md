@@ -25,7 +25,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/netflix-inspired-platform.git
+git  https://netflix-clone-website.netlify.app/login
 
 Navigate to the project directory:
 
