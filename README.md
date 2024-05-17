@@ -59,8 +59,8 @@ bash
 
 Usage
 
-    Browse Movies: Browse and search for movies using the TMDB API.
-    User Authentication: Create an account or log in to save your favorite movies.
+    Movie Viewing: View movie details using the TMDB API.
+    User Authentication: Create an account or log in to access more features.
 
 Contributing
 
