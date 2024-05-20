@@ -25,7 +25,7 @@ Installation
 
     bash
 
-git   https://netflix-clone-website.netlify.app/
+git    https://netflix-streaming-platform.netlify.app/
 
 Navigate to the project directory:
 
